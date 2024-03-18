@@ -1,1 +1,0 @@
-This is ecommerce-turbo for Information Technology Project 2
